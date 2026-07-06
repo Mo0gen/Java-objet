@@ -6,7 +6,7 @@ public class TestOperations {
 
     public static void main(String[] args) {
 
-        double a = 10;
+        double a = 20;
         double b = 5;
 
         System.out.println("Addition : " + Operations.calcul(a, b, '+'));

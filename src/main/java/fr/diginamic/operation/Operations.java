@@ -19,7 +19,7 @@ public class Operations {
                 return a / b;
 
             default:
-                throw new IllegalArgumentException("Opérateur invalide : " + operateur);
+                throw new IllegalArgumentException(" Non valide : " + operateur);
         }
     }
 }
